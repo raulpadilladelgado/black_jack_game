@@ -3,7 +3,7 @@ import {Title} from './styles';
 
 const Greetings = () => {
     return (
-        <Title>Hello</Title>
+        <Title aria-label={'greetings'}>Hello</Title>
     )
 };
 
