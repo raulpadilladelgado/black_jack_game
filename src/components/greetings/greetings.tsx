@@ -1,8 +1,9 @@
 import * as React from 'react';
+import {Title} from './styles';
 
 const Greetings = () => {
     return (
-        <h1>Hello</h1>
+        <Title>Hello</Title>
     )
 };
 
